@@ -2,3 +2,4 @@
 
 - Pagination
 - Caching
+- Integration tests
